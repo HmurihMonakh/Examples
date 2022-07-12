@@ -1,8 +1,8 @@
 ﻿void FillArray(int[] collection)
 {
-    int Lenght= collection.Lenght;
+    int length= collection.Length;
     int index = 0;
-    while (index < Lenght)
+    while (index < length)
     {
         collection[index] = new Random().Next(1, 10);
         //index = index + 1;
@@ -28,7 +28,7 @@ int IndexOf(int[] collectioin, int find)
     int position = 0;// -1
     while (index < count)
     {
-        if(Collection[index] == find)
+        if(collectioin[index] == find)
         {
             position = index;
             break;
