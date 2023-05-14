@@ -4,7 +4,7 @@
 
 //int xa = 1, ya = 1, 
 //    xb = 1, yb = 30,
-//    xc = 80, yc = 30 - можно прописать в строчку так.
+//    xc = 80, yc = 30;  - можно прописать в строчку так.
 int xa = 40;
 int ya = 1;
 int xb = 1;
@@ -25,7 +25,7 @@ int x = xa, y = xb;
 
 int count = 0;
 
-while(count < 10000)
+while(count < 100000)
 {
     int what = new Random().Next(0, 3); // [0;3) 0 1 2
     if (what == 0)

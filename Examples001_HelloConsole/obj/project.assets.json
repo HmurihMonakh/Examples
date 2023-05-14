@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAKS\\Desktop\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+      "projectUniqueName": "C:\\Users\\MAKS\\Desktop\\учебаGB\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
       "projectName": "Examples001_HelloConsole",
-      "projectPath": "C:\\Users\\MAKS\\Desktop\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+      "projectPath": "C:\\Users\\MAKS\\Desktop\\учебаGB\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\MAKS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAKS\\Desktop\\Examples\\Examples001_HelloConsole\\obj\\",
+      "outputPath": "C:\\Users\\MAKS\\Desktop\\учебаGB\\Examples\\Examples001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MAKS\\AppData\\Roaming\\NuGet\\NuGet.Config"
